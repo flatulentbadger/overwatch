@@ -1,0 +1,23 @@
+h1{
+    color:green;
+    text-align: center;
+}
+.What{
+    color: indigo;
+    text-align: center;
+}
+.column{
+    height: 400px;
+    background: white;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid crimson;
+}
+main{
+    display:flex
+}
+.photo{
+    height: 80px;
+    width: 80px;
+}
